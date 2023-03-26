@@ -1,6 +1,6 @@
 # Hi! Welcome to  ✨Wenpeng Chen(陈温鹏)✨ ‘s Home🏠！
 
-> 🌱 I'm currently studying for a master's degree in software engineering at Nanjing University of Science and Technology.  
+> 🌱 I'm still a student in Nanjing University of Science and Technology.  
 
 ## My Hobby
 - 🎤 singing.
