@@ -1,6 +1,10 @@
-# Hi! Welcome to  ✨Wenpeng Chen(陈温鹏)✨ ‘s Github!
+# Hi! Welcome to  ✨Wenpeng Chen(陈温鹏)✨ ‘s Home🏠！
 
-> 🌱 I am currently studying for a master's degree in software engineering at Nanjing University of Science and Technology.
+> 🌱 I'm currently studying for a master's degree in software engineering at Nanjing University of Science and Technology.  
+
+## My Hobby
+- 🎤 singing.
+- 💃 locking.
 
 <!--
 **Wrapping-2000/Wrapping-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
