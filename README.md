@@ -1,5 +1,4 @@
 # Hi! Welcome to  ✨Wenpeng Chen(陈温鹏)✨ ‘s Github!
-===
 
 ## 🌱 I am currently studying for a master's degree in software engineering at Nanjing University of Science and Technology.
 
