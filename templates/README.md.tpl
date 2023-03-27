@@ -12,7 +12,7 @@
 - 💃 locking🔒
 
 ### 🔨 Check out my recent pull requests...
-{{range recentPullRequests 5}}
+{{range recentPullRequests 3}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
