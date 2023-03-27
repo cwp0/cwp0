@@ -22,7 +22,7 @@
 
 ### 📃Papers and Patents... 
 - [铁基载氧体化学链氧化氨气特性的实验研究](https://xueshu.baidu.com/usercenter/paper/show?paperid=1p7m0c40dn1a04e0491y08w09j317716&site=xueshu_se)
-
+- Two more patents accepted.
 
 <!--
 **Wrapping-2000/Wrapping-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
