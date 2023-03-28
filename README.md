@@ -22,8 +22,6 @@
 - [refactor: change all c.Data[&#34;json&#34;] = to responseOk() in Go backend](https://github.com/casdoor/casdoor/pull/1680) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
 - [fix: Make OrganizationEditPages&#39; field column wider when screen width is small.](https://github.com/casdoor/casdoor/pull/1652) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 weeks ago)
 
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wrapping-2000&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=a8a8a8&icon_color=9932cd&bg_color=13161B" />
-
 ### 🌱 I’m currently learning...
 - ⚡️ New energy science and engineering such as wind power and photovoltaic power generation
 - ☁️ cloud computing
