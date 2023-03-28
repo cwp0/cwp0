@@ -1,27 +1,21 @@
 # Hi! Welcome to  ✨Wenpeng Chen(陈温鹏)✨ ‘s Github🏠！
+<div align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);&center=true&size=27" alt="Typing SVG" />
+  </a>
+</div>
+<div align="right"> <img src="https://visitor-badge.glitch.me/badge?page_id=Wrapping-2000" /> </div>
 
 > 👉 Come from Nanyang,Henan,China🇨🇳, currently living in Nanjing,Jiangsu,China🇨🇳.  
 > 👉 Still a student in Nanjing University of Science and Technology.  
 
-<div align="right"> <img src="https://visitor-badge.glitch.me/badge?page_id=Wrapping-2000" /> </div>
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wrapping-2000&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=true" />
-
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wrapping-2000&hide_title=false&hide_border=true&text_color=a8a8a8&icon_color=9932cd&bg_color=13161B" />
 
 ### 🌈 Something I like to do...
 - 💻 coding
 - 🎧 listening
 - 🎤 singing
 - 💃 locking🔒
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ### 🔨 Check out my recent pull requests...
 {{range recentPullRequests 5}}
@@ -42,7 +36,7 @@
   </tr>
 </table>
 
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wrapping-2000&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=a8a8a8&icon_color=9932cd&bg_color=13161B" />
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wrapping-2000&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=a8a8a8&icon_color=9932cd&bg_color=13161B" />
 
 
 <!--
