@@ -3,7 +3,7 @@
 > 👉 Come from Nanyang,Henan,China🇨🇳, currently living in Nanjing,Jiangsu,China🇨🇳.  
 > 👉 Still a student in Nanjing University of Science and Technology.  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Wrapping-2000&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=0a0b12&hide_title=false" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Wrapping-2000&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=true" />
 
 ### 🌈 Something I like to do...
 - 💻 coding
