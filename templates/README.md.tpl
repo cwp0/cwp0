@@ -5,14 +5,23 @@
 
 <div align="right"> <img src="https://visitor-badge.glitch.me/badge?page_id=Wrapping-2000" /> </div>
 
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Wrapping-2000&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=true" />
+
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wrapping-2000&hide_title=false&hide_border=true&text_color=a8a8a8&icon_color=9932cd&bg_color=13161B" />
 
 ### 🌈 Something I like to do...
 - 💻 coding
 - 🎧 listening
 - 🎤 singing
 - 💃 locking🔒
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### 🔨 Check out my recent pull requests...
 {{range recentPullRequests 5}}
