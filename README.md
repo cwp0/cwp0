@@ -53,13 +53,13 @@
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+<img height="100" width="100" src="https://github.com/Wrapping-2000/Wrapping-2000/tree/master/pictures/html.webp">
+<img height="100" width="100" src="https://github.com/Wrapping-2000/Wrapping-2000/tree/master/pictures/css.webp">
+<img height="100" width="100" src="https://github.com/Wrapping-2000/Wrapping-2000/tree/master/pictures/vscode.webp">
+<img height="100" width="100" src="https://github.com/Wrapping-2000/Wrapping-2000/tree/master/pictures/react.webp">
+<img height="95" width="95" src="https://github.com/Wrapping-2000/Wrapping-2000/tree/master/pictures/vue.webp">
+<img height="100" width="100" src="https://github.com/Wrapping-2000/Wrapping-2000/tree/master/pictures/python.webp">
+<img height="100" width="100" src="https://github.com/Wrapping-2000/Wrapping-2000/tree/master/pictures/JS.webp">
+<img height="100" width="100" src="https://github.com/Wrapping-2000/Wrapping-2000/tree/master/pictures/github.webp">
 
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+<img src="https://github.com/Wrapping-2000/Wrapping-2000/tree/master/pictures/tools.png" /></div>
