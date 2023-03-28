@@ -13,9 +13,9 @@
 
 ### 🔨 Check out my recent pull requests...
 
-- [feat: upgrade go-redis from v8 to v9](https://github.com/casbin/redis-watcher/pull/46) on [casbin/redis-watcher](https://github.com/casbin/redis-watcher) (1 day ago)
-- [feat: bump go-redis from v8 to v9](https://github.com/casbin/redis-watcher/pull/45) on [casbin/redis-watcher](https://github.com/casbin/redis-watcher) (1 day ago)
-- [refactor: change all c.Data[&#34;json&#34;] = to responseOk() in Go backend](https://github.com/casdoor/casdoor/pull/1680) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 days ago)
+- [feat: upgrade go-redis from v8 to v9](https://github.com/casbin/redis-watcher/pull/46) on [casbin/redis-watcher](https://github.com/casbin/redis-watcher) (2 days ago)
+- [feat: bump go-redis from v8 to v9](https://github.com/casbin/redis-watcher/pull/45) on [casbin/redis-watcher](https://github.com/casbin/redis-watcher) (2 days ago)
+- [refactor: change all c.Data[&#34;json&#34;] = to responseOk() in Go backend](https://github.com/casdoor/casdoor/pull/1680) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (5 days ago)
 
 ### 🌱 I’m currently learning...
 - ⚡️ New energy science and engineering such as wind power and photovoltaic power generation
