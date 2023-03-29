@@ -51,8 +51,9 @@
 ### 🔧 Some tools I use...
 <div align="center">
 
+![MacOS Badge](https://shields.io/badge/MacOS-000000?logo=apple&style=flat)
+!iOS Badge](https://shields.io/badge/iOS-000000?logo=apple&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 
   <div align="center" >
     <a href="https://kubernetes.io/zh-cn/" >
