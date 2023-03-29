@@ -50,22 +50,12 @@
 ### 🔧 Some tools I use...
 <div align="center" >
 
-<!-- ![macOS Badge](https://shields.io/badge/macOS-1E2021?logo=apple&style=flat) -->
-<!-- ![iOS Badge](https://shields.io/badge/iOS-1E2021?logo=apple&style=flat) -->
-<!-- ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat) -->
-
-  <a href="https://www.microsoft.com/zh-cn/windows/](https://www.microsoft.com/zh-cn/windows/" >
-    <img src="https://img-blog.csdnimg.cn/10a364da4581461f80cd2998bca0e428.png#pic_center" />
-  </a>
-  <a href="https://www.apple.com.cn/" >
-    <img src="https://img-blog.csdnimg.cn/d0d4031f301947ceaf4f2d9a33fa43ea.png#pic_center" />
-  </a>
-  <a href="https://www.microsoft.com/zh-cn/windows/" >
-    <img src="https://img-blog.csdnimg.cn/d1fb32e2723c4cd3b7f625bc41865f67.png#pic_center" />
-  </a>
-
-
-
+  <div align="center" >
+    <a href="https://www.apple.com.cn/"><img src="https://shields.io/badge/macOS-1E2021?logo=apple&style=flat" /></a>
+    <a href="https://www.apple.com.cn/"><img src="https://shields.io/badge/iOS-1E2021?logo=apple&style=flat" /></a>
+    <a href="https://www.microsoft.com/zh-cn/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat" /></a>
+  </div>
+  
   <div align="center" >
     <a href="https://kubernetes.io/zh-cn/" >
       <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
