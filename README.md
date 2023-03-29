@@ -50,11 +50,10 @@
 
 ### 🔧 Some tools I use...
 <div align="center">
-  <div align="center" >
-    ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-    ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-    ![Mac Badge](https://img.shields.io/badge/Mac-FCC624?logo=mac&logoColor=000&style=flat)
-  </div>
+
+![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+
   <div align="center" >
     <a href="https://kubernetes.io/zh-cn/" >
       <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
