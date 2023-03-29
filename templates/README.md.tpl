@@ -50,13 +50,9 @@
 ### 🔧 Some tools I use...
 <div align="center" >
   <div align="center" >
-    ![![macOS Badge](https://shields.io/badge/macOS-1E2021?logo=apple&style=flat)](https://support.apple.com/zh-cn/guide/mac-help/welcome/10.13/mac)
-    <a href="https://www.apple.com.cn/" >
-      ![iOS Badge](https://shields.io/badge/iOS-1E2021?logo=apple&style=flat)
-    </a>
-    <a href="https://www.microsoft.com/zh-cn/windows/" >
-      ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-    </a>
+    ![macOS Badge](https://shields.io/badge/macOS-1E2021?logo=apple&style=flat)
+    ![iOS Badge](https://shields.io/badge/iOS-1E2021?logo=apple&style=flat)
+    ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
   </div>
 
   <div align="center" >
