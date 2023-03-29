@@ -46,58 +46,62 @@
 
 ### 🔧 Some tools I use...
 <div align="center">
-  <a href="https://kubernetes.io/zh-cn/" >
-    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-  </a>
-  <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript" >
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-  </a>
-  <a href="https://www.mysql.com/" >
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-  </a>
-  <a href="https://webpack.docschina.org/" >
-    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-  </a>
-  <a href="https://www.docker.com/why-docker/" >
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
-  </a>
-  <a href="https://cplusplus.com/" >
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-  </a>
-  <a href="https://www.java.com/zh-CN/" >
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-  </a>
-  <a href="https://zh-hans.eslint.org/" >
-    <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-  </a>
-  <a href="https://docs.djangoproject.com/zh-hans/4.1/" >
-    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-  </a>
-  <a href="https://www.tslang.cn/" >
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-  </a>
-  
-  <a href="https://www.w3.org/html/zh/" >
-    <img height="100" width="100" src="https://img-blog.csdnimg.cn/ae0533a463234d8b8d430fa22171b85d.webp">
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" >
-    <img height="100" width="100" src="https://img-blog.csdnimg.cn/9d7a40c188f4480eae1dbf8b2282dc5c.webp">
-  </a>
-  <a href="https://code.visualstudio.com/" >
-    <img height="100" width="100" src="https://img-blog.csdnimg.cn/b974d57972a341f4bbe45fdda327e6e1.webp">
-  </a>
-  <a href="https://react.dev/" >
-    <img height="100" width="100" src="https://img-blog.csdnimg.cn/877b291e8ddd433e9f3d8544271194c9.webp">
-  </a>
-  <a href="https://cn.vuejs.org/" >
-    <img height="95" width="95" src="https://img-blog.csdnimg.cn/143381e58c1047ff9ca5027530e21a2c.webp">
-  </a>
-  <a href="https://www.python.org/" >
-    <img height="100" width="100" src="https://img-blog.csdnimg.cn/1418cc83015e423e86b7ba697dbae607.webp">
-  </a>
-  <a href="https://github.com/" >
-    <img height="100" width="100" src="https://img-blog.csdnimg.cn/d222be657bca4494a4f1a7bd0cce978c.webp">
-  </a>
+  <div align="center">
+    <a href="https://kubernetes.io/zh-cn/" >
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    </a>
+    <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript" >
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    </a>
+    <a href="https://www.mysql.com/" >
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    </a>
+    <a href="https://webpack.docschina.org/" >
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+    </a>
+    <a href="https://www.docker.com/why-docker/" >
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
+    </a>
+    <a href="https://cplusplus.com/" >
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+    </a>
+    <a href="https://www.java.com/zh-CN/" >
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+    </a>
+    <a href="https://zh-hans.eslint.org/" >
+      <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+    </a>
+    <a href="https://docs.djangoproject.com/zh-hans/4.1/" >
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    </a>
+    <a href="https://www.tslang.cn/" >
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    </a>
+  </div>
+
+  <div>
+    <a href="https://www.w3.org/html/zh/" >
+      <img height="100" width="100" src="https://img-blog.csdnimg.cn/ae0533a463234d8b8d430fa22171b85d.webp">
+    </a>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html" >
+      <img height="100" width="100" src="https://img-blog.csdnimg.cn/9d7a40c188f4480eae1dbf8b2282dc5c.webp">
+    </a>
+    <a href="https://code.visualstudio.com/" >
+      <img height="100" width="100" src="https://img-blog.csdnimg.cn/b974d57972a341f4bbe45fdda327e6e1.webp">
+    </a>
+    <a href="https://react.dev/" >
+      <img height="100" width="100" src="https://img-blog.csdnimg.cn/877b291e8ddd433e9f3d8544271194c9.webp">
+    </a>
+    <a href="https://cn.vuejs.org/" >
+      <img height="95" width="95" src="https://img-blog.csdnimg.cn/143381e58c1047ff9ca5027530e21a2c.webp">
+    </a>
+    <a href="https://www.python.org/" >
+      <img height="100" width="100" src="https://img-blog.csdnimg.cn/1418cc83015e423e86b7ba697dbae607.webp">
+    </a>
+    <a href="https://github.com/" >
+      <img height="100" width="100" src="https://img-blog.csdnimg.cn/d222be657bca4494a4f1a7bd0cce978c.webp">
+    </a>
+  </div>
 
   <a href="https://xclient.info/s/c/dev/" >
     <img src="https://img-blog.csdnimg.cn/1517b47136a644cb82132977bfb1f2f3.png" /></div>
