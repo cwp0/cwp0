@@ -1,4 +1,4 @@
-# Hi! Welcome to  ✨Wenpeng Chen(陈温鹏)✨ ‘s Github🏠！
+# Hi there, I'm ✨Wenpeng Chen(陈温鹏)✨ ！
 
 > 👉 Come from Nanyang,Henan,China🇨🇳, currently living in Nanjing,Jiangsu,China🇨🇳.  
 > 👉 Still a student in Nanjing University of Science and Technology.  
