@@ -41,13 +41,18 @@
 
 ### 📝 What language I use...
 <div align="center">
-  <img height="137" src="https://img-blog.csdnimg.cn/11430e63c9bb407ca0a2fa3edd2939b4.gif" />
-  <img height="137" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wrapping-2000&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=a8a8a8&icon_color=9932cd&bg_color=13161B" />
+  <img height="200" src="https://img-blog.csdnimg.cn/11430e63c9bb407ca0a2fa3edd2939b4.gif" />
+  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wrapping-2000&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=a8a8a8&icon_color=9932cd&bg_color=13161B" />
 </div>
 
 ### 🔧 Some tools I use...
 <div align="center">
-  <div align="center">
+  <div align="center" >
+    ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+    ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+    ![Mac Badge](https://img.shields.io/badge/Mac-FCC624?logo=mac&logoColor=000&style=flat)
+  </div>
+  <div align="center" >
     <a href="https://kubernetes.io/zh-cn/" >
       <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
     </a>
@@ -80,7 +85,7 @@
     </a>
   </div>
 
-  <div>
+  <div align="center" >
     <a href="https://www.w3.org/html/zh/" >
       <img height="100" width="100" src="https://img-blog.csdnimg.cn/ae0533a463234d8b8d430fa22171b85d.webp">
     </a>
