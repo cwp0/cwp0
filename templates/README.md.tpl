@@ -50,9 +50,7 @@
 ### 🔧 Some tools I use...
 <div align="center" >
   <div align="center" >
-    <a href="https://support.apple.com/zh-cn/guide/mac-help/welcome/10.13/mac" >
-      ![macOS Badge](https://shields.io/badge/macOS-1E2021?logo=apple&style=flat)
-    </a>
+    ![![macOS Badge](https://shields.io/badge/macOS-1E2021?logo=apple&style=flat)](https://support.apple.com/zh-cn/guide/mac-help/welcome/10.13/mac)
     <a href="https://www.apple.com.cn/" >
       ![iOS Badge](https://shields.io/badge/iOS-1E2021?logo=apple&style=flat)
     </a>
