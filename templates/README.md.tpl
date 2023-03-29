@@ -41,8 +41,8 @@
 
 ### 📝 What language I use...
 <div align="center">
-  <img align="left" src="https://img-blog.csdnimg.cn/11430e63c9bb407ca0a2fa3edd2939b4.gif" />
-  <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wrapping-2000&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=a8a8a8&icon_color=9932cd&bg_color=13161B" />
+  <img align="left" height="137" src="https://img-blog.csdnimg.cn/11430e63c9bb407ca0a2fa3edd2939b4.gif" />
+  <img align="right" height="137" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wrapping-2000&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=a8a8a8&icon_color=9932cd&bg_color=13161B" />
 </div>
 
 ### 🔧 Some tools I use...
