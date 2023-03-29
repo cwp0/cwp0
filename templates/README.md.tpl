@@ -6,7 +6,7 @@
 <div align="right"> <img src="https://visitor-badge.glitch.me/badge?page_id=Wrapping-2000" /> </div>
 
 <div align="center">
-  <a href="https://leetcode.cn/problemset/all/">
+  <a href="https://www.runoob.com/go/go-tutorial.html">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fmt.Println(%22Hello%2C%20World%22)&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
