@@ -44,7 +44,8 @@
 
 ### 📝 What language I use...
 <div align="center">
-  <img align="center" height="137" width="800" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wrapping-2000&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=a8a8a8&icon_color=9932cd&bg_color=13161B" />
+  <img align="left" src="https://img-blog.csdnimg.cn/11430e63c9bb407ca0a2fa3edd2939b4.gif" />
+  <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wrapping-2000&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=a8a8a8&icon_color=9932cd&bg_color=13161B" />
 </div>
 
 ### 🔧 Some tools I use...
@@ -100,6 +101,9 @@
     </a>
     <a href="https://www.python.org/" >
       <img height="100" width="100" src="https://img-blog.csdnimg.cn/1418cc83015e423e86b7ba697dbae607.webp">
+    </a>
+    <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript" >
+      <img height="100" width="100" src="https://img-blog.csdnimg.cn/fab97832810545aa9bb9d19f94c944e2.webp">
     </a>
     <a href="https://github.com/" >
       <img height="100" width="100" src="https://img-blog.csdnimg.cn/d222be657bca4494a4f1a7bd0cce978c.webp">
