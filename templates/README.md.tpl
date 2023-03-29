@@ -41,15 +41,15 @@
 
 ### 📝 What language I use...
 <div align="center">
-  <img height="200" src="https://img-blog.csdnimg.cn/11430e63c9bb407ca0a2fa3edd2939b4.gif" />
   <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wrapping-2000&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=a8a8a8&icon_color=9932cd&bg_color=13161B" />
+  <img height="200" src="https://img-blog.csdnimg.cn/11430e63c9bb407ca0a2fa3edd2939b4.gif" />
 </div>
 
 ### 🔧 Some tools I use...
 <div align="center">
 
-![MacOS Badge](https://shields.io/badge/MacOS-000000?logo=apple&style=flat)
-!iOS Badge](https://shields.io/badge/iOS-000000?logo=apple&style=flat)
+![MacOS Badge](https://shields.io/badge/MacOS-1E2021?logo=apple&style=flat)
+![iOS Badge](https://shields.io/badge/iOS-1E2021?logo=apple&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 
   <div align="center" >
