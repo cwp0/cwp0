@@ -21,7 +21,7 @@
 
 ### 🔨 Check out my recent pull requests...
 
-- [docs: add docs for WeChat Pay.](https://github.com/casdoor/casdoor-website/pull/452) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (3 days ago)
+- [docs: add docs for WeChat Pay.](https://github.com/casdoor/casdoor-website/pull/452) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (4 days ago)
 - [fix: fix getUserProfileUrl format.](https://github.com/casdoor/casdoor-java-sdk/pull/41) on [casdoor/casdoor-java-sdk](https://github.com/casdoor/casdoor-java-sdk) (1 week ago)
 - [feat: upgrade go-redis from v8 to v9](https://github.com/casbin/redis-watcher/pull/46) on [casbin/redis-watcher](https://github.com/casbin/redis-watcher) (1 week ago)
 - [feat: bump go-redis from v8 to v9](https://github.com/casbin/redis-watcher/pull/45) on [casbin/redis-watcher](https://github.com/casbin/redis-watcher) (1 week ago)
