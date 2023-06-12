@@ -21,7 +21,7 @@
 
 ### 🔨 Check out my recent pull requests...
 
-- [feat: Fix the frontend broken UI in IE 11 and Chrome 86.](https://github.com/casdoor/casdoor/pull/1958) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 day ago)
+- [feat: Fix the frontend broken UI in IE 11 and Chrome 86.](https://github.com/casdoor/casdoor/pull/1958) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 days ago)
 - [feat: add code](https://github.com/pycasbin/async-sqlalchemy-adapter/pull/3) on [pycasbin/async-sqlalchemy-adapter](https://github.com/pycasbin/async-sqlalchemy-adapter) (3 weeks ago)
 - [fix: fix pemContent decode error bug for WeChat Pay provider](https://github.com/casdoor/casdoor/pull/1751) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 month ago)
 - [fix: Make OrganizationEditPages&#39; field column wider when screen width is small.](https://github.com/casdoor/casdoor/pull/1725) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 months ago)
