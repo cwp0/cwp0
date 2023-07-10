@@ -21,9 +21,9 @@
 
 ### 🔨 Check out my recent pull requests...
 
-- [feat: support new login UI style.](https://github.com/casdoor/casdoor/pull/2019) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 week ago)
-- [feat: add dividing line images](https://github.com/casbin/static/pull/71) on [casbin/static](https://github.com/casbin/static) (1 week ago)
-- [feat: Fix the frontend broken UI in IE 11 and Chrome 86.](https://github.com/casdoor/casdoor/pull/1958) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (4 weeks ago)
+- [feat: support new login UI style.](https://github.com/casdoor/casdoor/pull/2019) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 weeks ago)
+- [feat: add dividing line images](https://github.com/casbin/static/pull/71) on [casbin/static](https://github.com/casbin/static) (2 weeks ago)
+- [feat: Fix the frontend broken UI in IE 11 and Chrome 86.](https://github.com/casdoor/casdoor/pull/1958) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 month ago)
 - [feat: add code](https://github.com/pycasbin/async-sqlalchemy-adapter/pull/3) on [pycasbin/async-sqlalchemy-adapter](https://github.com/pycasbin/async-sqlalchemy-adapter) (1 month ago)
 - [fix: fix pemContent decode error bug for WeChat Pay provider](https://github.com/casdoor/casdoor/pull/1751) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (2 months ago)
 
