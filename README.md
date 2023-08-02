@@ -21,11 +21,11 @@
 
 ### 🔨 Check out my recent pull requests...
 
+- [feat: add WeChat iOS native third-party login.](https://github.com/casdoor/casdoor-flutter-example/pull/10) on [casdoor/casdoor-flutter-example](https://github.com/casdoor/casdoor-flutter-example) (1 day ago)
+- [feat: Support WeChat iOS native third-party login.](https://github.com/casdoor/casdoor-flutter-sdk/pull/27) on [casdoor/casdoor-flutter-sdk](https://github.com/casdoor/casdoor-flutter-sdk) (1 day ago)
 - [fix: fix Connect failed error in macOS.](https://github.com/casdoor/casdoor-flutter-example/pull/9) on [casdoor/casdoor-flutter-example](https://github.com/casdoor/casdoor-flutter-example) (1 week ago)
 - [feat: optimize example.](https://github.com/casdoor/casdoor-flutter-example/pull/8) on [casdoor/casdoor-flutter-example](https://github.com/casdoor/casdoor-flutter-example) (1 week ago)
 - [feat: add the Logout function to the Authenticate button.](https://github.com/casdoor/casdoor-flutter-sdk/pull/26) on [casdoor/casdoor-flutter-sdk](https://github.com/casdoor/casdoor-flutter-sdk) (1 week ago)
-- [feat: add parsePort() method to fix bugs](https://github.com/casdoor/casdoor-flutter-sdk/pull/25) on [casdoor/casdoor-flutter-sdk](https://github.com/casdoor/casdoor-flutter-sdk) (2 weeks ago)
-- [feat: support new login UI style.](https://github.com/casdoor/casdoor/pull/2019) on [casdoor/casdoor](https://github.com/casdoor/casdoor) (1 month ago)
 
 ### 🌱 I’m currently learning...
 - ⚡️ New energy science and engineering such as wind power and photovoltaic power generation
