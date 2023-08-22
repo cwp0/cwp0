@@ -1,15 +1,11 @@
 # Hi there, I'm ✨Wenpeng Chen(陈温鹏)✨ ！
 
-> 👉 Come from Nanyang,Henan,China🇨🇳, currently living in Nanjing,Jiangsu,China🇨🇳.  
-> 👉 Still a student in Nanjing University of Science and Technology.  
+> 👉 Just a vegetable dog...
+> 👉 Still have a long way to go...
 
-<div align="right"> <img src="https://visitor-badge.glitch.me/badge?page_id=cwp0" /> </div>
 
-<div align="center">
-  <a href="https://www.runoob.com/go/go-tutorial.html">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fmt.Println(%22Hello%2C%20World%22)&center=true&size=27" alt="Typing SVG" />
-  </a>
-</div>
+
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cwp0&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=true" />
 
@@ -35,20 +31,7 @@
 - [铁基载氧体化学链氧化氨气特性的实验研究](https://xueshu.baidu.com/usercenter/paper/show?paperid=1p7m0c40dn1a04e0491y08w09j317716&site=xueshu_se)
 - Two more patents accepted.
 
-### 🔍 My contribution activity in the past month...
-<table align="right">
-  <tr>
-    <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Wrapping-2000&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
-  </tr>
-</table>
 
-### 📝 What language I use...
-<div align="center">
-  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cwp0&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=a8a8a8&icon_color=9932cd&bg_color=13161B" />
-  <a href="https://leetcode.cn/problemset/all/" >
-    <img height="200" src="https://img-blog.csdnimg.cn/11430e63c9bb407ca0a2fa3edd2939b4.gif" />
-  </a>
-</div>
 
   
   
