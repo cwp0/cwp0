@@ -1,6 +1,7 @@
-# Hi there, I'm ✨Wenpeng Chen(陈温鹏)✨ ！
+# Hi there, I'm ✨Wenpeng Chen✨ ！
 
 > 👉 Just a vegetable dog...
+
 > 👉 Still have a long way to go...
 
 <!-- <div align="right"> <img src="https://visitor-badge.glitch.me/badge?page_id=cwp0" /> </div> -->
@@ -19,7 +20,7 @@
 - 💻 coding
 - 🎧 listening
 - 🎤 singing
-- 💃 locking🔒
+- 💃 dancing🔒
 
 ### 🔨 Check out my recent pull requests...
 {{range recentPullRequests 5}}
