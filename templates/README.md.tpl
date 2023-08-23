@@ -1,4 +1,4 @@
-# Hi there, I'm ✨Wenpeng Chen✨ ！
+# Hi there, I'm ✨ChenWenpeng✨ ！
 
 > 👉 Just a vegetable dog...
 
