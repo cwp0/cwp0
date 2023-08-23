@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://www.runoob.com/go/go-tutorial.html">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fmt.Println(%22Feeling%22the%22world...%22)&center=true&size=16" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feeling%20the%20world...&center=true&size=16" alt="Typing SVG" />
   </a>
 </div>
 
@@ -50,12 +50,8 @@
   </a>
 </div>
 
-  <!-- <img width="150" src="https://img-blog.csdnimg.cn/8f1500f7b5c0414fb604705b542e6d98.png" />&emsp; -->
-  <!--&emsp;<img width="150" src="https://img-blog.csdnimg.cn/47ae4372bc544e6e802eec02560df44e.png" /> -->
-
 ### 🔧 Some tools I use...
 <div align="center" >
-
   <div align="center" >
     <a href="https://www.apple.com.cn/"><img src="https://shields.io/badge/macOS-1E2021?logo=apple&style=flat" /></a>
     <a href="https://www.apple.com.cn/"><img src="https://shields.io/badge/iOS-1E2021?logo=apple&style=flat" /></a>
