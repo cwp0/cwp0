@@ -4,12 +4,9 @@
 
 > 👉 Still have a long way to go...
 
-<div align="center">
-  <a href="https://www.runoob.com/go/go-tutorial.html">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feeling%20the%20world...&center=true&size=16" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Coding%20the%20world...&center=true&size=16" alt="Typing SVG" />
-  </a>
-</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feeling%20the%20world...&center=true&size=16" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Coding%20the%20world...&center=true&size=16" alt="Typing SVG" />
 
 
 
