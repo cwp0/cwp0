@@ -9,10 +9,10 @@
 </div>
 
 <a href="https://www.baidu.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feeling%20the%20world...&center=true&size=16" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feeling%20the%20world...&center=true&size=24" alt="Typing SVG" />
 </a>
 <a href="https://github.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Coding%20the%20world...&center=true&size=16" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Coding%20the%20world...&center=true&size=24" alt="Typing SVG" />
 </a>
 
 <a href="https://github.com/cwp0/">
