@@ -5,11 +5,11 @@
 > 👉 Still have a long way to go...
 
 <div align="right"> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=cwp0.cwp0&left_color=green&right_color=red" /> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cwp0.cwp0&left_color=green&right_color=red" /> 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feeling%20the%20world...&center=true&size=18" alt="Typing SVG" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Coding%20the%20world...&center=true&size=18" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feeling%20the%20world...&center=true&size=20" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Coding%20the%20world...&center=true&size=20" alt="Typing SVG" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cwp0&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" />
 
