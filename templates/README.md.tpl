@@ -5,7 +5,7 @@
 > 👉 Still have a long way to go...
 
 <div align="right"> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=page_id&left_color=green&right_color=red" /> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=cwp0.cwp0&left_color=green&right_color=red" /> 
 </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feeling%20the%20world...&center=true&size=18" alt="Typing SVG" />
