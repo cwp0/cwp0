@@ -4,15 +4,13 @@
 
 > 👉 Still have a long way to go...
 
-<!-- <div align="right"> <img src="https://visitor-badge.glitch.me/badge?page_id=cwp0" /> </div> -->
-
-<!-- 
 <div align="center">
   <a href="https://www.runoob.com/go/go-tutorial.html">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fmt.Println(%22Hello%2C%20World%22)&center=true&size=27" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=fmt.Println(%22Feeling%22the%22world...%22)&center=true&size=16" alt="Typing SVG" />
   </a>
-</div> 
--->
+</div>
+
+<!-- <div align="right"> <img src="https://visitor-badge.glitch.me/badge?page_id=cwp0" /> </div> -->
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cwp0&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=true" />
 
@@ -35,7 +33,9 @@
 - [铁基载氧体化学链氧化氨气特性的实验研究](https://xueshu.baidu.com/usercenter/paper/show?paperid=1p7m0c40dn1a04e0491y08w09j317716&site=xueshu_se)
 - Two more patents accepted.
 
-<!-- ### 🔍 My contribution activity in the past month...
+<!-- 
+
+### 🔍 My contribution activity in the past month...
 <table align="right">
   <tr>
     <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Wrapping-2000&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/></td>
@@ -48,12 +48,12 @@
   <a href="https://leetcode.cn/problemset/all/" >
     <img height="200" src="https://img-blog.csdnimg.cn/11430e63c9bb407ca0a2fa3edd2939b4.gif" />
   </a>
-</div> -->
+</div>
 
   <!-- <img width="150" src="https://img-blog.csdnimg.cn/8f1500f7b5c0414fb604705b542e6d98.png" />&emsp; -->
-  <!-- &emsp;<img width="150" src="https://img-blog.csdnimg.cn/47ae4372bc544e6e802eec02560df44e.png" /> -->
+  <!--&emsp;<img width="150" src="https://img-blog.csdnimg.cn/47ae4372bc544e6e802eec02560df44e.png" /> -->
 
-  <!-- ### 🔧 Some tools I use...
+### 🔧 Some tools I use...
 <div align="center" >
 
   <div align="center" >
@@ -128,4 +128,6 @@
   <a href="https://xclient.info/s/c/dev/" >
     <img src="https://img-blog.csdnimg.cn/21809547ef714ab38b6d68315a63768e.png" /></div>
   </a>
-</div> -->
+</div> 
+
+-->
