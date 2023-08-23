@@ -5,7 +5,10 @@
 > 👉 Still have a long way to go...
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cwp0&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=true"/>
+
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cwp0&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=true" />
 
 ### 🌈 Something I like to do...
 - 💻 coding
@@ -28,14 +31,6 @@
 ### 📃Papers and Patents... 
 - [铁基载氧体化学链氧化氨气特性的实验研究](https://xueshu.baidu.com/usercenter/paper/show?paperid=1p7m0c40dn1a04e0491y08w09j317716&site=xueshu_se)
 - Two more patents accepted.
-
-```txt
-C++          13 hrs 39 mins  ███████████████████████░░   91.92 %
-Other        52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
-Markdown     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Go           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
 
 
 
