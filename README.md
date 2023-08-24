@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://github.com/cwp0/">
-  <img align="right" src="https://github-statistics.vercel.app/api?username=cwp0&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" />
+  <img align="right" src="https://github-statistics.vercel.app/api?username=cwp0&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=true" />
 </a>
 
 ### 🌈 Something I like to do...
@@ -37,20 +37,10 @@
 - Two more patents accepted.
 
 ### 🔍 My contribution activity in the past year...
-
-<div align="center">
-  <div style="display: inline-block;">
-    <img height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwp0&theme=tokyonight&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" alt="cwp0" />
-  </div>
-  <div style="display: inline-block;">
-    <img height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cwp0&theme=tokyonight&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" />
-  </div>
-</div>
-
 <table align="center" >
   <tr>
-    <td><img align="left" height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwp0&theme=tokyonight&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" alt="cwp0" /></td>
-    <td><img align="right" height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cwp0&theme=tokyonight&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" /></td>
+    <td><img height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwp0&theme=tokyonight&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" alt="cwp0" /></td>
+    <td><img height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cwp0&theme=tokyonight&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" /></td>
   </tr>
 </table>
 
