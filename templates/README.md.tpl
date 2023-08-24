@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feeling%20the%20World...%20%20%20%20Coding%20the%20world...&center=true&size=24" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Feeling%20the%20World...%20%20%20%20Coding%20the%20world...&center=true&size=24" alt="Typing SVG" />
   </a>
 </div>
 
