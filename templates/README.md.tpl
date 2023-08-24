@@ -35,6 +35,7 @@
 
 ### 📝 What language I use...
 <div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cwp0&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/>
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwp0&hide_title=false&hide_border=false&count_private=true&layout=compact&langs_count=6&text_color=a8a8a8&icon_color=9932cd&bg_color=13161B" />
 </div>
 
