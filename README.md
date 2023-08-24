@@ -40,8 +40,8 @@
 <p align="center"><img height="240em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwp0&theme=nord_dark" alt="cwp0" align="center"/></p>
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cwp0&theme=default)
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=cwp0&theme=default)
-![Activity](https://github-profile-summary-cards.vercel.app/api/cards/activity?username=cwp0&theme=default)
+
+
 ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=cwp0&show_icons=true)
 
 
@@ -50,8 +50,6 @@
 ![GitHub Stats](https://github-statistics.vercel.app/api?username=cwp0)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cwp0)
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cwp0)
 
 
 
