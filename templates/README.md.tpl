@@ -2,7 +2,6 @@
 
 > 👉 Just do it.
 
-
 <a href="https://github.com/cwp0/">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cwp0.cwp0&left_color=blue&right_color=gray" /> 
 </a>
