@@ -36,10 +36,6 @@
 - [铁基载氧体化学链氧化氨气特性的实验研究](https://xueshu.baidu.com/usercenter/paper/show?paperid=1p7m0c40dn1a04e0491y08w09j317716&site=xueshu_se)
 - Two more patents accepted.
 
-### 📝 What language I use...
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=cwp0&theme=xcode&bg_color=FF000000&hide_border=true" alt="Activity"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cwp0&hide_title=false&hide_border=false&count_private=true&layout=compact&langs_count=6&text_color=a8a8a8&icon_color=9932cd&bg_color=13161B" />
-</div>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwp0&theme=github" alt="csthenry" align = "center"/></p>
 
 
