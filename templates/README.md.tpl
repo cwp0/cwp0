@@ -2,17 +2,13 @@
 
 > 👉 Just a vegetable dog...
 
-<div align="right">
-  <a href="https://github.com/cwp0/">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=cwp0.cwp0&left_color=blue&right_color=gray" /> 
-  </a>
-</div>
+<a href="https://github.com/cwp0/">
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cwp0.cwp0&left_color=blue&right_color=gray" /> 
+</a>
 
-<div align="center">
-  <a href="https://github.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Feeling%20the%20World...%20%20%20%20Coding%20the%20world...&center=true&size=24" alt="Typing SVG" />
-  </a>
-</div>
+<a href="https://github.com/">
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Feeling%20the%20World...%20%20%20%20Coding%20the%20world...&center=true&size=24" alt="Typing SVG" />
+</a>
 
 <a href="https://github.com/cwp0/">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=cwp0&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" />
@@ -38,7 +34,6 @@
 - Two more patents accepted.
 
 <!-- 
-
 ### 🔍 My contribution activity in the past month...
 <table align="right">
   <tr>
