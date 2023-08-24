@@ -39,8 +39,8 @@
 ### 🔍 My contribution activity in the past year...
 <table align="center">
   <tr>
-    <td><img align="left" height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwp0&theme=onedark" alt="cwp0" align="center"/></td>
-    <td><img align="right" height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cwp0&theme=gruvbox&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false"></td>
+    <td><img align="left" height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwp0&theme=onedark" alt="cwp0" align="center"/></td>
+    <td><img align="right" height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cwp0&theme=gruvbox&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false"></td>
   </tr>
 </table>
 
