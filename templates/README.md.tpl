@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://github.com/cwp0/">
-  <img align="right" src="https://github-statistics.vercel.app/api?username=cwp0&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=true" />
+  <img align="right" src="https://github-statistics.vercel.app/api?username=cwp0&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" />
 </a>
 
 ### 🌈 Something I like to do...
@@ -36,8 +36,16 @@
 ### 🔍 My contribution activity in the past year...
 <table align="center" >
   <tr>
-    <td><img height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwp0&theme=tokyonight&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" alt="cwp0" /></td>
-    <td><img height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cwp0&theme=tokyonight&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" /></td>
+    <td>
+      <a href="https://github.com/cwp0/">
+        <img height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwp0&theme=tokyonight&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" alt="cwp0" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/cwp0/">
+        <img height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cwp0&theme=tokyonight&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" />
+      </a>
+    </td>
   </tr>
 </table>
 
