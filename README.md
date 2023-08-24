@@ -38,6 +38,10 @@
 
 ### 🔍 My contribution activity in the past year...
 
+<div style="display: flex;">
+  <img align="left" height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cwp0&theme=tokyonight&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" alt="cwp0" />
+  <img align="right" height="162em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cwp0&theme=tokyonight&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" />
+</div>
 
 <table align="center" >
   <tr>
