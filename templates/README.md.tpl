@@ -8,12 +8,11 @@
   </a>
 </div>
 
-<a href="https://www.baidu.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feeling%20the%20world...&center=true&size=24" alt="Typing SVG" />
-</a>
-<a href="https://github.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Coding%20the%20world...&center=true&size=24" alt="Typing SVG" />
-</a>
+<div align="center">
+  <a href="https://github.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Feeling%20the%20World...%20%20%20%20Coding%20the%20world...&center=true&size=24" alt="Typing SVG" />
+  </a>
+</div>
 
 <a href="https://github.com/cwp0/">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=cwp0&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" />
