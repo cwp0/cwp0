@@ -22,11 +22,11 @@
 
 ### 🔨 Check out my recent pull requests...
 
-- [Update hello.c](https://github.com/cwp0/testGit/pull/6) on [cwp0/testGit](https://github.com/cwp0/testGit) (today)
-- [Update hello.c](https://github.com/cwp0/testGit/pull/5) on [cwp0/testGit](https://github.com/cwp0/testGit) (today)
-- [Update README.md](https://github.com/cwp0/testGit/pull/3) on [cwp0/testGit](https://github.com/cwp0/testGit) (today)
-- [Update README.md](https://github.com/cwp0/testGit/pull/2) on [cwp0/testGit](https://github.com/cwp0/testGit) (today)
-- [Update README.md](https://github.com/cwp0/testGit/pull/1) on [cwp0/testGit](https://github.com/cwp0/testGit) (today)
+- [Update hello.c](https://github.com/cwp0/testGit/pull/6) on [cwp0/testGit](https://github.com/cwp0/testGit) (1 day ago)
+- [Update hello.c](https://github.com/cwp0/testGit/pull/5) on [cwp0/testGit](https://github.com/cwp0/testGit) (1 day ago)
+- [Update README.md](https://github.com/cwp0/testGit/pull/3) on [cwp0/testGit](https://github.com/cwp0/testGit) (1 day ago)
+- [Update README.md](https://github.com/cwp0/testGit/pull/2) on [cwp0/testGit](https://github.com/cwp0/testGit) (1 day ago)
+- [Update README.md](https://github.com/cwp0/testGit/pull/1) on [cwp0/testGit](https://github.com/cwp0/testGit) (1 day ago)
 
 ### 🌱 I’m currently learning...
 - ⚡️ New energy science and engineering such as wind power and photovoltaic power generation
