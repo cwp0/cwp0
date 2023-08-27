@@ -28,6 +28,7 @@
 ### 🌱 I’m currently learning...
 - ⚡️ New energy science and engineering such as wind power and photovoltaic power generation
 - ☁️ cloud computing
+- ⚡️ distributed reinforcement learning
 
 ### 📃Papers and Patents... 
 - [铁基载氧体化学链氧化氨气特性的实验研究](https://xueshu.baidu.com/usercenter/paper/show?paperid=1p7m0c40dn1a04e0491y08w09j317716&site=xueshu_se)
