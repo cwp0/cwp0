@@ -22,11 +22,11 @@
 
 ### 🔨 Check out my recent pull requests...
 
-- [feat: add Casdoor Web SSO login.](https://github.com/casdoor/casdoor-react-native-example/pull/3) on [casdoor/casdoor-react-native-example](https://github.com/casdoor/casdoor-react-native-example) (1 week ago)
+- [feat: add initial code](https://github.com/casdoor/casdoor-react-native-sdk/pull/1) on [casdoor/casdoor-react-native-sdk](https://github.com/casdoor/casdoor-react-native-sdk) (1 day ago)
+- [feat: add Casdoor SSO login](https://github.com/casdoor/casdoor-react-native-example/pull/3) on [casdoor/casdoor-react-native-example](https://github.com/casdoor/casdoor-react-native-example) (1 week ago)
 - [feat: Initial React-Native code.](https://github.com/casdoor/casdoor-react-native-example/pull/2) on [casdoor/casdoor-react-native-example](https://github.com/casdoor/casdoor-react-native-example) (1 week ago)
 - [Update hello.c](https://github.com/cwp0/testGit/pull/6) on [cwp0/testGit](https://github.com/cwp0/testGit) (1 week ago)
 - [Update hello.c](https://github.com/cwp0/testGit/pull/5) on [cwp0/testGit](https://github.com/cwp0/testGit) (1 week ago)
-- [Update README.md](https://github.com/cwp0/testGit/pull/3) on [cwp0/testGit](https://github.com/cwp0/testGit) (1 week ago)
 
 ### 🌱 I’m currently learning...
 - ⚡️ New energy science and engineering such as wind power and photovoltaic power generation
