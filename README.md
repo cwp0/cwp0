@@ -1,6 +1,6 @@
 # Hi there, I'm ✨ChenWenpeng✨ ！ 🤭
 
-> 👉 Just do it.
+> 👉 do than say.
 
 <a href="https://github.com/cwp0/">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cwp0.cwp0&left_color=blue&right_color=gray" /> 
@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://github.com/cwp0/">
-  <img align="right" src="https://github-statistics.vercel.app/api?username=cwp0&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=cwp0&show_icons=true&icon_color=9932cd&text_color=a8a8a8&bg_color=13161B&hide_title=false&hide_border=false" />
 </a>
 
 ### 🌈 Something I like to do...
