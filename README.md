@@ -31,7 +31,7 @@
 ### 🌱 I’m currently learning...
 - ⚡️ new energy science and engineering such as wind power and photovoltaic power generation
 - ☁️ cloud computing
-- 🪩 distributed reinforcement learning
+- 🖥️ distributed reinforcement learning
 - 📱 mobile edge computing
 - 🤖 multi-agent reinforcement learning
 
