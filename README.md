@@ -26,7 +26,7 @@
 - [feat: use PKCE to obtain token.](https://github.com/casdoor/casdoor-react-native-example/pull/5) on [casdoor/casdoor-react-native-example](https://github.com/casdoor/casdoor-react-native-example) (5 months ago)
 - [feat: Use PKCE to obtain token.](https://github.com/casdoor/casdoor-react-native-sdk/pull/3) on [casdoor/casdoor-react-native-sdk](https://github.com/casdoor/casdoor-react-native-sdk) (5 months ago)
 - [feat: add casdoor web login.](https://github.com/casdoor/casdoor-app/pull/6) on [casdoor/casdoor-app](https://github.com/casdoor/casdoor-app) (5 months ago)
-- [feat: add item edit and delete features, add item logo](https://github.com/casdoor/casdoor-app/pull/4) on [casdoor/casdoor-app](https://github.com/casdoor/casdoor-app) (5 months ago)
+- [feat: add item edit and delete features, add item logo](https://github.com/casdoor/casdoor-app/pull/4) on [casdoor/casdoor-app](https://github.com/casdoor/casdoor-app) (6 months ago)
 
 ### 🌱 I’m currently learning...
 - ⚡️ new energy science and engineering such as wind power and photovoltaic power generation
