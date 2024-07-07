@@ -59,6 +59,42 @@
 ### 📝 Homepage...
 [Gitee](https://gitee.com/cwp0)   [CSDN](https://blog.csdn.net/cwp964219374)   [博客园](https://www.cnblogs.com/cwp0)   [知乎](https://www.zhihu.com/people/superp_)    [掘金](https://juejin.cn/user/4288545993007640)
 
+## 我的博客网站
+
+<p align="left">
+    <a href="https://gitee.com/cwp0">
+        <img src="https://gitee.com/assets/favicon.ico" alt="Gitee" width="20"/>
+        Gitee
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://blog.csdn.net/cwp964219374">
+        <img src="https://csdnimg.cn/pubfooter/images/favicon.ico" alt="CSDN" width="20"/>
+        CSDN
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://www.cnblogs.com/cwp0">
+        <img src="https://common.cnblogs.com/favicon.ico" alt="博客园" width="20"/>
+        博客园
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://www.zhihu.com/people/superp_">
+        <img src="https://static.zhihu.com/favicon.ico" alt="知乎" width="20"/>
+        知乎
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://juejin.cn/user/4288545993007640">
+        <img src="https://lf3-cdn-tos.bytescm.com/obj/static/juejin/web/img/icon-gold.41b8fba.png" alt="掘金" width="20"/>
+        掘金
+    </a>
+</p>
 
 
 
