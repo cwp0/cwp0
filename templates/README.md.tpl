@@ -56,7 +56,7 @@
 ### 📝 Homepage...
 [Gitee](https://gitee.com/cwp0)   [CSDN](https://blog.csdn.net/cwp964219374)   [博客园](https://www.cnblogs.com/cwp0)   [知乎](https://www.zhihu.com/people/superp_)    [掘金](https://juejin.cn/user/4288545993007640)
 
-<a href="https://www.zhihu.com/people/superp_"><img src="https://img.shields.io/badge/-Gitee-gray&blue?logo=gitee" /></a>&emsp;
+<a href="https://www.zhihu.com/people/superp_"><img src="https://img.shields.io/badge/-Gitee-blue?logo=Gitee" /></a>&emsp;
 
 
 
