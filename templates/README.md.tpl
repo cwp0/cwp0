@@ -58,7 +58,7 @@
 
 <a href="https://gitee.com/cwp0"><img src="https://img.shields.io/badge/-Gitee-gray?logo=Gitee&logoColor=c72a24" /></a>&emsp;
 <a href="https://blog.csdn.net/cwp964219374"><img src="https://img.shields.io/badge/-CSDN-gray?logo=CSDN&logoColor=e96140" /></a>&emsp;
-<a href="https://www.cnblogs.com/cwp0"><img src="https://img.shields.io/badge/-博客园-gray?logo=cnblog&logoColor=4a80ca" /></a>&emsp;
+<a href="https://www.cnblogs.com/cwp0"><img src="https://img.shields.io/badge/-博客园-gray?logo=bokeyuan&logoColor=4a80ca" /></a>&emsp;
 <a href="https://www.zhihu.com/people/superp_"><img src="https://img.shields.io/badge/-知乎-gray?logo=zhihu&logoColor=2a63f5" /></a>&emsp;
 <a href="https://juejin.cn/user/4288545993007640"><img src="https://img.shields.io/badge/-掘金-gray?logo=juejin&logoColor=3f7ef7" /></a>&emsp;
 
