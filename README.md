@@ -20,6 +20,16 @@
 - 🎤 singing
 - 💃 dancing🔒
 
+### 📝 Homepage...
+- [Gitee](https://gitee.com/cwp0)
+- [CSDN](https://blog.csdn.net/cwp964219374)
+- [博客园](https://www.cnblogs.com/cwp0)
+- [知乎](https://www.zhihu.com/people/superp_)
+- [掘金](https://juejin.cn/user/4288545993007640)
+
+### Contact me...
+- wenpengchen@njust.edu.cn
+
 ### 🔨 Check out my recent pull requests...
 
 - [fix: remove clientSecret in doc.](https://github.com/casdoor/casdoor-website/pull/575) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (9 months ago)
@@ -36,7 +46,7 @@
 - 🖥️ distributed reinforcement learning
 - 🤖 multi-agent reinforcement learning
 
-### 📃Papers and Patents... 
+### 📃 Papers and Patents... 
 - [铁基载氧体化学链氧化氨气特性的实验研究](https://xueshu.baidu.com/usercenter/paper/show?paperid=1p7m0c40dn1a04e0491y08w09j317716&site=xueshu_se)
 - Two more patents accepted.
 
