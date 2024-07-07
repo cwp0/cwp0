@@ -20,16 +20,6 @@
 - 🎤 singing
 - 💃 dancing🔒
 
-### 📝 Homepage...
-- [Gitee](https://gitee.com/cwp0)
-- [CSDN](https://blog.csdn.net/cwp964219374)
-- [博客园](https://www.cnblogs.com/cwp0)
-- [知乎](https://www.zhihu.com/people/superp_)
-- [掘金](https://juejin.cn/user/4288545993007640)
-
-### Contact me...
-- wenpengchen@njust.edu.cn
-
 ### 🔨 Check out my recent pull requests...
 
 - [fix: remove clientSecret in doc.](https://github.com/casdoor/casdoor-website/pull/575) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (9 months ago)
@@ -65,6 +55,9 @@
     </td>
   </tr>
 </table>
+
+### 📝 Homepage...
+[Gitee](https://gitee.com/cwp0)   [CSDN](https://blog.csdn.net/cwp964219374)   [博客园](https://www.cnblogs.com/cwp0)   [知乎](https://www.zhihu.com/people/superp_)    [掘金](https://juejin.cn/user/4288545993007640)
 
 
 
