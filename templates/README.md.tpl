@@ -25,11 +25,6 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-### 🔨 Check out my recent pull Commits...
-{{range recentCommits 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
 ### 🌱 I’m currently learning...
 - ⚡️ new energy science and engineering such as wind power and photovoltaic power generation
 - 🧑🏻‍💻 software engineering
