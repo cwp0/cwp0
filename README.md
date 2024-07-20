@@ -25,7 +25,7 @@
 - [fix: remove clientSecret in doc.](https://github.com/casdoor/casdoor-website/pull/575) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (9 months ago)
 - [feat: use PKCE to obtain token.](https://github.com/casdoor/casdoor-react-native-example/pull/5) on [casdoor/casdoor-react-native-example](https://github.com/casdoor/casdoor-react-native-example) (9 months ago)
 - [feat: Use PKCE to obtain token.](https://github.com/casdoor/casdoor-react-native-sdk/pull/3) on [casdoor/casdoor-react-native-sdk](https://github.com/casdoor/casdoor-react-native-sdk) (9 months ago)
-- [feat: add casdoor web login.](https://github.com/casdoor/casdoor-app/pull/6) on [casdoor/casdoor-app](https://github.com/casdoor/casdoor-app) (9 months ago)
+- [feat: add casdoor web login.](https://github.com/casdoor/casdoor-app/pull/6) on [casdoor/casdoor-app](https://github.com/casdoor/casdoor-app) (10 months ago)
 - [feat: add item edit and delete features, add item logo](https://github.com/casdoor/casdoor-app/pull/4) on [casdoor/casdoor-app](https://github.com/casdoor/casdoor-app) (10 months ago)
 
 ### 🌱 I’m currently learning...
