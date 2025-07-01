@@ -1,13 +1,13 @@
 # Hi there, I'm ✨ChenWenpeng✨ ！ 🤭
 
-> 👉 do than say.
+> 👉 I currently work at [Alibaba Group](https://www.alibabagroup.com/).
 
 <a href="https://github.com/cwp0/">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=cwp0.cwp0&left_color=blue&right_color=gray" /> 
 </a>
 
 <a href="https://github.com/">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Feeling%20the%20World...%20%20%20%20Coding%20the%20world...&center=true&size=24" alt="Typing SVG" />
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Feeling%20the%20World...%20%20%20%20Coding%20the%20World...&center=true&size=24" alt="Typing SVG" />
 </a>
 
 <a href="https://github.com/cwp0/">
@@ -22,11 +22,13 @@
 
 ### 🔨 Check out my recent pull requests...
 
-- [fix: remove clientSecret in doc.](https://github.com/casdoor/casdoor-website/pull/575) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (1 year ago)
-- [feat: use PKCE to obtain token.](https://github.com/casdoor/casdoor-react-native-example/pull/5) on [casdoor/casdoor-react-native-example](https://github.com/casdoor/casdoor-react-native-example) (1 year ago)
-- [feat: Use PKCE to obtain token.](https://github.com/casdoor/casdoor-react-native-sdk/pull/3) on [casdoor/casdoor-react-native-sdk](https://github.com/casdoor/casdoor-react-native-sdk) (1 year ago)
-- [feat: add casdoor web login.](https://github.com/casdoor/casdoor-app/pull/6) on [casdoor/casdoor-app](https://github.com/casdoor/casdoor-app) (1 year ago)
-- [feat: add item edit and delete features, add item logo](https://github.com/casdoor/casdoor-app/pull/4) on [casdoor/casdoor-app](https://github.com/casdoor/casdoor-app) (1 year ago)
+- [fix: remove clientSecret in doc.](https://github.com/casdoor/casdoor-website/pull/575) on [casdoor/casdoor-website](https://github.com/casdoor/casdoor-website) (2 years ago)
+- [feat: use PKCE to obtain token.](https://github.com/casdoor/casdoor-react-native-example/pull/5) on [casdoor/casdoor-react-native-example](https://github.com/casdoor/casdoor-react-native-example) (2 years ago)
+- [feat: Use PKCE to obtain token.](https://github.com/casdoor/casdoor-react-native-sdk/pull/3) on [casdoor/casdoor-react-native-sdk](https://github.com/casdoor/casdoor-react-native-sdk) (2 years ago)
+- [feat: add casdoor web login.](https://github.com/casdoor/casdoor-authenticator/pull/6) on [casdoor/casdoor-authenticator](https://github.com/casdoor/casdoor-authenticator) (2 years ago)
+- [feat: add item edit and delete features, add item logo](https://github.com/casdoor/casdoor-authenticator/pull/4) on [casdoor/casdoor-authenticator](https://github.com/casdoor/casdoor-authenticator) (2 years ago)
+
+### 💼 I currently work at
 
 ### 🌱 I’m currently learning...
 - ⚡️ new energy science and engineering such as wind power and photovoltaic power generation
