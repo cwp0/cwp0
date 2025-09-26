@@ -25,8 +25,6 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-### 💼 I currently work at
-
 ### 🌱 I’m currently learning...
 - ⚡️ new energy science and engineering such as wind power and photovoltaic power generation
 - 🧑🏻‍💻 software engineering
