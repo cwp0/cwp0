@@ -11,16 +11,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v4
 
-      - uses: muesli/readme-scribe@master
+      - uses: actions/setup-go@v5
+        with:
+          go-version: 'stable'
+
+      - name: Install and run markscribe
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
+        run: |
+          go install github.com/muesli/markscribe@latest
+          markscribe -write README.md templates/README.md.tpl
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
