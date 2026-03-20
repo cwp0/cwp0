@@ -28,8 +28,6 @@
 - [feat: add casdoor web login.](https://github.com/casdoor/casdoor-authenticator/pull/6) on [casdoor/casdoor-authenticator](https://github.com/casdoor/casdoor-authenticator) (2 years ago)
 - [feat: add item edit and delete features, add item logo](https://github.com/casdoor/casdoor-authenticator/pull/4) on [casdoor/casdoor-authenticator](https://github.com/casdoor/casdoor-authenticator) (2 years ago)
 
-### 💼 I currently work at
-
 ### 🌱 I’m currently learning...
 - ⚡️ new energy science and engineering such as wind power and photovoltaic power generation
 - 🧑🏻‍💻 software engineering
