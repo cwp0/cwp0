@@ -25,7 +25,15 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-### 🌱 I’m currently learning...
+### 🌱 I'm currently interested in and learning...
+- 🧠 AI (Artificial Intelligence)
+- 🔧 Claude Code
+- 🦞 OpenClaw
+- 🎵 Vibe Coding
+- 🔗 LangChain
+- 🤖 Agent Development
+
+### 🎓 What I learned in college...
 - ⚡️ new energy science and engineering such as wind power and photovoltaic power generation
 - 🧑🏻‍💻 software engineering
 - ☁️ cloud computing
