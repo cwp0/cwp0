@@ -28,7 +28,15 @@
 - [feat: add casdoor web login.](https://github.com/casdoor/casdoor-authenticator/pull/6) on [casdoor/casdoor-authenticator](https://github.com/casdoor/casdoor-authenticator) (2 years ago)
 - [feat: add item edit and delete features, add item logo](https://github.com/casdoor/casdoor-authenticator/pull/4) on [casdoor/casdoor-authenticator](https://github.com/casdoor/casdoor-authenticator) (2 years ago)
 
-### 🌱 I’m currently learning...
+### 🌱 I'm currently interested in and learning...
+- 🧠 AI (Artificial Intelligence)
+- 🔧 Claude Code
+- 🦞 OpenClaw
+- 🎵 Vibe Coding
+- 🔗 LangChain
+- 🤖 Agent Development
+
+### 🎓 What I learned in college...
 - ⚡️ new energy science and engineering such as wind power and photovoltaic power generation
 - 🧑🏻‍💻 software engineering
 - ☁️ cloud computing
