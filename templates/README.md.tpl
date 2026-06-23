@@ -31,7 +31,8 @@
 - 🦞 OpenClaw
 - 🎵 Vibe Coding
 - 🔗 LangChain
-- 🤖 Agent Development
+- 🔧 Harnesss&Loop Engineering
+- 🤖 Agent Development(SDD)
 
 ### 🎓 What I learned in college...
 - ⚡️ new energy science and engineering such as wind power and photovoltaic power generation
